@@ -1,0 +1,16 @@
+body {
+  /* background: url("i.jpeg"); */
+  margin: 0;
+  padding: 0;
+
+  background-size: cover;
+  font-family: sans-serif;
+}
+.pic {
+  width: 25%;
+  height: 25%;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
